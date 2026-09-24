@@ -24,6 +24,7 @@ I'm a Group Lead at [Argusoft](https://www.argusoft.com), leading a team of 10+ 
 ### Proof
 
 - **[MEDplat](https://www.medplat.org)**: the open-source platform I've helped build since 2017. It's a registered Digital Public Good, deployed in India, Cambodia, Zambia, Jamaica and Nigeria.
+- **[medplat_core](https://pub.dev/packages/medplat_core)**: the Flutter core library behind MEDplat's mobile apps, published on pub.dev.
 - **[Shelfmark](https://github.com/prtkgrg/shelfmark)**: my side project, a Flutter app for tracking reading progress through PDF collections.
 
 ### Stack
