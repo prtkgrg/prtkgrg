@@ -23,8 +23,7 @@ I'm a Group Lead at [Argusoft](https://www.argusoft.com), leading a team of 10+ 
 
 ### Proof
 
-- **[MEDplat](https://github.com/ArgusoftOpen/medplat)**: the open-source platform I've helped build since 2017. It's a registered Digital Public Good, deployed in India, Cambodia, Zambia, Jamaica and Nigeria.
-- **[i-MoMCARE study](https://pmc.ncbi.nlm.nih.gov/articles/PMC13110616/)**: our AI-enabled maternal and child health app in rural Cambodia, peer-reviewed in 2026.
+- **[MEDplat](https://www.medplat.org)**: the open-source platform I've helped build since 2017. It's a registered Digital Public Good, deployed in India, Cambodia, Zambia, Jamaica and Nigeria.
 - **[Shelfmark](https://github.com/prtkgrg/shelfmark)**: my side project, a Flutter app for tracking reading progress through PDF collections.
 
 ### Stack
