@@ -1,4 +1,4 @@
-<a href="https://prateekgarg.dev"><img src="./banner.svg" alt="Prateek Garg: Full-stack Lead Engineer. 300M people reached by systems I built." width="100%"></a>
+<a href="https://prateekgarg.dev"><img src="./banner.svg" alt="Prateek Garg: Lead Software Engineer. 300M people reached by systems I built." width="100%"></a>
 
 ### My software runs where the network doesn't.
 
@@ -9,6 +9,7 @@ I'm a Group Lead at [Argusoft](https://www.argusoft.com), leading a team of 10+ 
 <p>
   <a href="https://prateekgarg.dev"><img src="https://img.shields.io/badge/prateekgarg.dev-d4ff3f?style=flat-square&labelColor=08090b" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/prtk-grg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://prateekgarg.dev/cv.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-d4ff3f?style=flat-square&labelColor=08090b" alt="Download CV"></a>
   <a href="mailto:garg.prateek2209@gmail.com"><img src="https://img.shields.io/badge/Email-ecebe6?style=flat-square&logo=gmail&logoColor=08090b" alt="Email"></a>
 </p>
 
