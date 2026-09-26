@@ -26,7 +26,7 @@ I'm a Group Lead at [Argusoft](https://www.argusoft.com), leading a team of 10+ 
 
 - **[MEDplat](https://www.medplat.org)**: the open-source platform I've helped build since 2017. It's a registered Digital Public Good, deployed in India, Cambodia, Zambia, Jamaica and Nigeria.
 - **[medplat_core](https://pub.dev/packages/medplat_core)**: the Flutter core library behind MEDplat's mobile apps, published on pub.dev.
-- **[FieldSync](https://github.com/prtkgrg/fieldsync)**: an offline-first sync engine in Java 21, Spring Boot 4 and PostgreSQL. It covers per-field conflict resolution, idempotent push, and a pull cursor that can't skip changes. The README explains each design decision.
+- **[FieldSync](https://github.com/prtkgrg/fieldsync)**: an offline-first sync engine with a Java 21, Spring Boot 4 and PostgreSQL server and a Flutter client that works with no network. It covers per-field conflict resolution, idempotent push, a pull cursor that can't skip changes, and a local outbox that rebases edits on sync. The README explains each design decision.
 - **[Shelfmark](https://github.com/prtkgrg/shelfmark)**: my side project, a Flutter app for tracking reading progress through PDF collections.
 
 ### Stack
